@@ -6,5 +6,7 @@
     "production": {
         "PORT": 80,
         "MONGODB_URI": "mongodb://localhost/MEANStackDB"
-    }
+    },
+    "connectionString": "mongodb://localhost/node-mongo-api",
+    "secret": "ANY STRING FOR VERIFICATION MASKED HERE"
 }
